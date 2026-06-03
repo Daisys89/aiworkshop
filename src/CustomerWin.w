@@ -248,7 +248,6 @@ DO:
   END.
   ELSE
     MESSAGE "Customer not found" VIEW-AS ALERT-BOX.
-  END.
 END.
 
 /* _UIB-CODE-BLOCK-END */
